@@ -7,9 +7,8 @@ This repository contains automated test scripts aimed at validating the core fun
 ## Prerequisites
 The following software and tools are required to run the tests:
 - [Python 3](https://www.python.org/)
+- [pip](https://pypi.org/project/pip/)
 - [Selenium WebDriver](https://www.selenium.dev/)
-- [ChromeDriver](https://sites.google.com/chromium.org/driver/)
-- pip (Python package installer)
 - Virtual environment (optional but recommended)
 
 ## Installation
