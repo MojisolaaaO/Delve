@@ -21,6 +21,6 @@ To install and set up the project for testing:
    ```
 
 2. Navigate to the project directory:
-```bash
-   cd Delve
-```
+   ```bash
+      cd Delve
+   ```
